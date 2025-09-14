@@ -1,0 +1,5 @@
+print("The", "rain", "in", "Spain", sep="_",end="**")
+print("is",end="**")
+print("mainly",end="**")
+print("on", "the", "plain", sep="_")
+print(f)
